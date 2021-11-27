@@ -18,11 +18,11 @@
 
 		<repository>
 			<id>Maven-release</id>
-			<url>http://localhost:8081/nexus/content/repositories/Maven-release/</url>
+			<url>http://3.145.24.22:8081/repository/package/</url>
 		</repository>
 		<snapshotRepository>
 			<id>Maven-snapshot</id>
-			<url>http://localhost:8081/nexus/content/repositories/Maven-snapshot/</url>
+			<url>http://3.145.24.22:8081/repository/snapshorts/</url>
 		</snapshotRepository>		
   </distributionManagement>
 </project>
